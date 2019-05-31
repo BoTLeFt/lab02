@@ -2,10 +2,18 @@
 #include <string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 int main(){
     string name;
     std::cin >> name; //ВВОД
     std::cout << "Hello world from " << name; //ВЫВОД
+=======
+
+int main(){
+    std::string name; //Переменная
+    std::sin >> name; //Ввод значения переменной
+    std::cout << "Hello world from " << name; //Вывод
+>>>>>>> 4c964314af282cd6ba27d669a606d79660f1273a
     return 0;
 =======
 =======
