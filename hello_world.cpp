@@ -1,9 +1,9 @@
 #include <iostream>
-#include <string>
+#include <string> 
 
 int main(){
-    std::string name; //Переменная
-    std::sin >> name; //Ввод значения переменной
-    std::cout << "Hello world from " << name; //Вывод
+    string name;
+    std::cin >> name; //ВВОД
+    std::cout << "Hello world from " << name; //ВЫВОД
     return 0;
 }
